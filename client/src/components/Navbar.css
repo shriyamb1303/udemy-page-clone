@@ -1,0 +1,53 @@
+.hdnav {
+    height: 72px;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+}
+
+.udemy-image {
+    background-image: url("./logo-udemy.svg");
+    width: 91px;
+    height: 34px;
+    background-size: cover;
+    padding: 0px 8px;
+    margin-right: 8px;
+}
+
+/* navbar search */
+.search-box {
+    display: flex;
+    /* align-items: center; */
+}
+
+.nav-search {
+    background-color: transparent;
+    border: 1px solid black;
+    height: 46.4px;
+    width: 470px;
+    display: flex;
+    align-items: center;
+    border-radius: 2em;
+    margin-right: 10rem;
+}
+
+/* nav-headings */
+.nav-heading {
+    font-size: 0.9rem;
+    height: 48px;
+    display: flex;
+    align-items: center;
+}
+
+/* nav-end */
+.nav-end {
+    display: flex;
+    align-items: center;
+    margin-left: 11rem;
+}
+
+.nav-icon {
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-left: 2rem;
+}

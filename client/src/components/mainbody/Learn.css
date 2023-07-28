@@ -1,0 +1,24 @@
+.main-learn-box {
+    margin: 0px 0px 32px 35px;
+    padding: 24px 0px 16px;
+    border: 1px solid #d1d7dc;
+    box-sizing: border-box;
+    width: 700px;
+    height: 250px;
+}
+
+.main-learn-h2 {
+    color: #1C1D1F;
+    margin: 0px 24px 16px;
+    height: 29px;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.main-learn-col {
+    font-size: 0.88rem;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    margin-bottom: 1.5rem;
+}
